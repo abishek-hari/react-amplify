@@ -10,7 +10,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>AWS AMPLIFY</p>
+        <p>LEARNED AWS AMPLIFY</p>
       </div>
     </>
   );
